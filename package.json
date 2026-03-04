@@ -1,0 +1,24 @@
+{
+  "name": "phamduchuy-nnptud-c4-ngay4-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghdgdfrewr/PhamDucHuy-NNPTUD-C4-Ngay4-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ghdgdfrewr/PhamDucHuy-NNPTUD-C4-Ngay4-3/issues"
+  },
+  "homepage": "https://github.com/ghdgdfrewr/PhamDucHuy-NNPTUD-C4-Ngay4-3#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
